@@ -10,7 +10,7 @@ import Drawer from "@material-ui/core/Drawer";
 import { Link } from "react-router-dom";
 import ChevronLeftIcon from "@material-ui/icons/ChevronLeft";
 import ChevronRightIcon from "@material-ui/icons/ChevronRight";
-import { useAuth0 } from "./react-auth0-spa";
+import { useAuth0 } from "./react-auth0-wrapper";
 
 const drawerWidth = 240;
 

@@ -18,7 +18,7 @@ import SpaceHome from "./components/Space/SpaceHome";
 import Space1 from "./components/Space/Space1";
 import Space2 from "./components/Space/Space2";
 import Space3 from "./components/Space/Space3";
-import { useAuth0 } from "./react-auth0-spa";
+import { useAuth0 } from "./react-auth0-wrapper";
 import PrivateRoute from "./components/PrivateRoute";
 
 export default () => {
